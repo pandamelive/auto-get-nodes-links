@@ -9,12 +9,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with: {python-version: "3.11"}
-      - run: python main.py
-      - run: |
-          git config --global user.name bot
-          git config --global user.email bot@github.com
+      
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 安装依赖 requests（修复报错）
+        run: pip install requests
+
+      - name: 运行抓取脚本
+        run: python main.py
+
+      - name: 提交并推送更新
+        run: |
+          git config --global user.name "auto-bot"
+          git config --global user.email "bot@github.com"
           git add .
-          git commit -m "auto update"
+          git commit -m "auto update sources"
           git push
