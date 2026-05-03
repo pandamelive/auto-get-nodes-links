@@ -7,24 +7,28 @@ on:
 jobs:
   run:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
-      
+        with:
+          fetch-depth: 1
+
       - name: 设置 Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: 安装依赖 requests（修复报错）
+      - name: 安装依赖
         run: pip install requests
 
       - name: 运行抓取脚本
         run: python main.py
 
-      - name: 提交并推送更新
+      - name: 提交更新
         run: |
-          git config --global user.name "auto-bot"
-          git config --global user.email "bot@github.com"
-          git add .
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add daily-sources.txt
           git commit -m "auto update sources"
           git push
