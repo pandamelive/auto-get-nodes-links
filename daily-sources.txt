@@ -1,1 +1,16 @@
-https://raw.githubusercontent.com/bry20230828/NodeSuber/main/v2ray_config.log
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_base64_Sub.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Sub1.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Sub2.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Sub21.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Sub22.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Sub23.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Sub24.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Sub25.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Sub26.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Sub3.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Sub4.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Sub5.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Sub6.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Sub7.txt
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Sub8.txt
