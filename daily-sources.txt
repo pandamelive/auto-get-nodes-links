@@ -1,6 +1,2 @@
-https://raw.githubusercontent.com/Shjpr9/Subs/main/sub-test.txt
-https://raw.githubusercontent.com/Shjpr9/Subs/main/sub.txt
-https://raw.githubusercontent.com/TopChina/proxy-list/main/clash_sub.yaml
-https://raw.githubusercontent.com/chowlone/Alwaysdata-vmess-vless-trojan-/main/trojan.sh
-https://raw.githubusercontent.com/chowlone/Alwaysdata-vmess-vless-trojan-/main/vless.sh
-https://raw.githubusercontent.com/chowlone/Alwaysdata-vmess-vless-trojan-/main/vmess.sh
+https://raw.githubusercontent.com/v2fly/v2ray-core/master/v2ray.go
+https://raw.githubusercontent.com/v2fly/v2ray-core/master/v2ray_test.go
