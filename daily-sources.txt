@@ -1,2 +1,3 @@
-https://raw.githubusercontent.com/1009476063/vpn-subscription-renew/main/vpn_subs_clash.txt
-https://raw.githubusercontent.com/1009476063/vpn-subscription-renew/main/vpn_subs_qx.txt
+https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/master/sub
+https://raw.githubusercontent.com/Surfboardv2ray/v2ray-worker-sub/master/sub64
+https://raw.githubusercontent.com/loohalh/Sub-clash/main/sub-clash.sh
