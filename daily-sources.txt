@@ -1,4 +1,0 @@
-https://raw.githubusercontent.com/morpheusadam/SpoonBoy/main/custom-singbox-sub.json
-https://raw.githubusercontent.com/morpheusadam/SpoonBoy/main/custom-xray-sub.json
-https://raw.githubusercontent.com/morpheusadam/SpoonBoy/main/v2rayN.exe
-https://raw.githubusercontent.com/morpheusadam/SpoonBoy/main/v2rayUpgrade.exe
