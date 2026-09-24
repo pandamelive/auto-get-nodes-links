@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/15605875200-spec/abaaba/main/clash.yaml
+https://raw.githubusercontent.com/15605875200-spec/abaaba/main/update_nodes.py
