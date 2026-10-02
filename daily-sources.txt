@@ -1,6 +1,2 @@
-https://raw.githubusercontent.com/ChiesiMario/clash-node-rover/main/tsconfig.node.json
-https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
-https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub.png
-https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub2.png
-https://raw.githubusercontent.com/loohalh/Sub-clash/main/sub-clash.sh
-https://raw.githubusercontent.com/wenxig/dongtai-sub/main/clash_template.yaml
+https://raw.githubusercontent.com/15605875200-spec/abaaba/main/clash.yaml
+https://raw.githubusercontent.com/15605875200-spec/abaaba/main/update_nodes.py
