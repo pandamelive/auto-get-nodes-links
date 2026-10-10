@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/hlpclg/singbox-sub-manager/main/merge-nodes.sh
