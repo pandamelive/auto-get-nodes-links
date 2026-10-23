@@ -1,2 +1,1 @@
-https://raw.githubusercontent.com/MambaOutZY/FreeVmessSUB/main/trojan.txt
-https://raw.githubusercontent.com/MambaOutZY/FreeVmessSUB/main/v2ray.txt
+https://raw.githubusercontent.com/skymun016/hysteria2-subscription/main/subscription.txt
