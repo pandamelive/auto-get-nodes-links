@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/MambaOutZY/FreeVmessSUB/main/trojan.txt
+https://raw.githubusercontent.com/MambaOutZY/FreeVmessSUB/main/v2ray.txt
