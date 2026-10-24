@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/TopChina/proxy-list/main/clash_sub.yaml
+https://raw.githubusercontent.com/hlpclg/singbox-sub-manager/main/merge-nodes.sh
+https://raw.githubusercontent.com/mrlurix/zefira-panel/main/subscription_token_test.py
